@@ -52,7 +52,7 @@ Dataset: The model is trained on an SMS spam dataset containing labeled messages
 
 🔗 Live Deployment
 
-The application is deployed on Render for public access. Click here: https://sms-spam-predictor-mhp.onrender.com
+The application is deployed on Render for public access. Click here: https://sms-spam-predictor-ss.onrender.com
 
 🤝 Contribution
 
@@ -62,4 +62,4 @@ Contributions are welcome! Feel free to fork this repository, create feature bra
 
 This project is licensed under the MIT License – free to use and modify.
 
-📬 Contact 👤 Siddhartha Singh 📧 10mastergaming10@gmail.com 🔗 [linkedin.com/in/parth-pandey-3442a9256](https://www.linkedin.com/in/siddhartha1010/)
+📬 Contact 👤 Siddhartha Singh 📧 10mastergaming10@gmail.com 🔗 https://www.linkedin.com/in/siddhartha1010/
