@@ -2,7 +2,7 @@
 
 Detect Spam Messages with Machine Learning
 
-🔗 Repository: MasterSailor10/sms_spam_predictor_p
+🔗 Repository: MasterSailor10/sms_spam_predictor_s
 
 🚀 Overview
 
@@ -14,7 +14,7 @@ The SMS Spam Predictor is a machine learning-based web application designed to d
 
 📂 Project Structure
 
-sms_spam_predictor_p/ │── spam_data/ # Dataset for training/testing
+sms_spam_predictor_s/ │── spam_data/ # Dataset for training/testing
 │── templates/ # HTML templates for the web app
 │── app.py # Flask web application
 │── model.pkl # Trained ML model
@@ -28,7 +28,7 @@ sms_spam_predictor_p/ │── spam_data/ # Dataset for training/testing
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/MasterSailor10/sms_spam_predictor_p.git cd sms_spam_predictor_p
+git clone https://github.com/MasterSailor10/sms_spam_predictor_s.git cd sms_spam_predictor_s
 
 2️⃣ Create & Activate Virtual Environment (Optional but Recommended)
 
